@@ -1,0 +1,27 @@
+*
+{
+    background-color: aliceblue;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+button
+{
+    background-color: gray;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.2;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+}
+
+button:hover
+{
+    background-color: blue; /* Green */
+    color: white;
+    cursor: pointer;
+}
